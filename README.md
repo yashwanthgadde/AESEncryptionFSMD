@@ -5,3 +5,6 @@ To encrypt messages longer than the block size, a mode of operation The Advanced
 
 # AIM 
 The main aim of the project is to encrypt the data using the Advanced Encryption Algorithm. By giving different type of input, we can get the encrypted data which is secure. Our main objective is to encrypt the data so that the intruders cannot hack the information while communicating.
+
+# CONCLUSION
+Each round of encryption associated with the delay that can be reduced by the parallel design of AES encryption that operates in higher frequency than non-pipelined, non-parallel design. In time critical encryption applied this type of encryption Subtitle in message throughput. The hardware implementation of AES provides faster speed than software implementation like secure key in encryption and higher throughput. The work has been extended to increase the security for more severe attacks since the encryption time has been reduced. There has been further scope to optimize the utilization of resources. The implementation can be further improved to achieve more efficient usage of the resources and increase the maximum clock frequency. The key length can be reduced, maintaining the same security, in order to optimize their source utilization. The few gaps have been covered but still a lot of can be done to achieve the security of data along with the optimization of resources.
